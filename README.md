@@ -44,6 +44,6 @@ This dashboard helps stakeholders:
 - Enhance dashboard performance with optimized data modeling  
 
 
-## 🔗 Author
+##  Author
 **Swathi Karanam**  
 Aspiring Data Analyst | Power BI | SQL | Python  
