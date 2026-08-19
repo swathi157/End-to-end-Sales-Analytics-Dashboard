@@ -1,4 +1,4 @@
-#  Sales Dashboard using Power BI
+#  End-to-end Sales Analytics Dashboard
 
 ##  Project Overview
 This project focuses on analyzing sales data to uncover key business insights and support data-driven decision-making. An interactive Power BI dashboard was developed to visualize trends, identify high-performing areas, and detect regions with losses.
